@@ -2,7 +2,8 @@
 
 A Python-based stock analysis tool for identifying potential buy candidates using moving average crossover strategies.
 
-## Version  
+## Version
+
 0.0.1
 
 ## Overview
