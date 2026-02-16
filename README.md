@@ -2,6 +2,9 @@
 
 A Python-based stock analysis tool for identifying potential buy candidates using moving average crossover strategies.
 
+## Version  
+0.0.1
+
 ## Overview
 
 This project evaluates stocks against technical selection criteria, specifically looking for "golden cross" patterns where the 50-day moving average (MA50) crosses above the 200-day moving average (MA200), indicating potential upward momentum.
@@ -127,4 +130,4 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Last Updated:** 2026-02-07
+**Last Updated:** 2026-02-16
