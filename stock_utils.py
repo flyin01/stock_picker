@@ -236,6 +236,7 @@ def plot_stock_ma(df: pd.DataFrame,
     plt.suptitle(title, fontsize=14, fontweight='bold')
     plt.tight_layout()
     plt.show()
+    
 
 # TEMP TEST VERSION OF FUNCTION WITH CSV READING INSTEAD OF HARDCODED SYMBOLS
 def get_index_constituents(index_name: str = "DOW") -> pd.DataFrame:
